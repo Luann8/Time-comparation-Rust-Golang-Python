@@ -1,1 +1,1 @@
-<img srt="https://github.com/Luann8/Time-comparation-Rust-Golang-Python/blob/main/download.png?raw=true">
+<img srt="https://raw.githubusercontent.com/Luann8/Time-comparation-Rust-Golang-Python/main/download.png">
